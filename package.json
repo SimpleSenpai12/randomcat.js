@@ -1,0 +1,28 @@
+{
+  "name": "randomcat",
+  "version": "0.1.0",
+  "description": "a cat that's random... what did you expect?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimpleSenpai12/randomcat.js.git"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "simplesenpai12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimpleSenpai12/randomcat.js/issues"
+  },
+  "homepage": "https://github.com/SimpleSenpai12/randomcat.js#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "tinyurl-api": "^1.0.1"
+  },
+  "devDependencies": {}
+}
